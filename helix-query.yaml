@@ -3,7 +3,7 @@ indices:
     include:
       - '**'
     exclude:
-      - 
+      - ''
     target: /query-index.json
     properties:
       author:
